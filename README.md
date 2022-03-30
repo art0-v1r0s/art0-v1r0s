@@ -1,3 +1,4 @@
+![Banner](https://github.com/art0-v1r0s/art0-v1r0s/blob/main/bannerGit.mp4)
 ### __Hey you__ 👋
 
 Je suis Arthur Dupuis, un étudiant en informatique basé à Paris et sur la sécurité Informatique.
