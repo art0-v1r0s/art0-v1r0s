@@ -18,7 +18,7 @@ Je suis Arthur Dupuis, un étudiant en informatique basé à Paris et sur la sé
 </table>
 
 ***	
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=art0-v1r0s)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=art0-v1r0s&layout=compact)](https://github.com/art0-v1r0s)
 [![My Skills](https://skillicons.dev/icons?i=linux,py,bash,powershell,c,php,html,css,js,git,mysql,gtk,java)](https://skillicons.dev)
  
 <!--
