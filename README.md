@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./1602230364930.jpeg" width="200" style="border-radius: 50%;" alt="Profile Picture" />
+<img src="./1602230364930.jpeg" alt="Profile Picture" />
 
 # Hi 👋, I'm art0-v1r0s
 
