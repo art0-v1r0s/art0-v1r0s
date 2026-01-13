@@ -6,10 +6,6 @@
 
 ### An experienced Python developer
 
-<a href="https://github.com/art0-v1r0s">
-  <img src="https://komarev.com/ghpvc/?username=art0-v1r0s&label=Profile views&color=0e75b6&style=flat" alt="Profile Views" />
-</a>
-
 <br/>
 
 ---
