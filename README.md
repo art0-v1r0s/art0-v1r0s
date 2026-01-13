@@ -1,35 +1,38 @@
-![Banner](https://github.com/art0-v1r0s/art0-v1r0s/blob/main/Banner.jpg)
 ### __Hey you__ 👋
 
-Je suis Arthur Dupuis, un étudiant en informatique basé à Paris et sur la sécurité Informatique.
+i'm **Art0v1r0s**,  worked in a SOC , I share some project on github, i'm **Cybersecurity** Enthusiast.
 
-***	
+---
 
-### Mes réseaux sociaux 👋
+### 💻 Mes Compétences
 
-<table style="border: 0;">
- <tr>
-    <td>
-    <a href="https://www.linkedin.com/in/arthur-dupuis-758819189">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-        </a>
-    </td>
- </tr>
-</table>
+<div align="center">
 
-***	
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=art0-v1r0s&layout=compact)](https://github.com/art0-v1r0s)
-[![My Skills](https://skillicons.dev/icons?i=linux,py,bash,powershell,c,php,html,css,js,git,mysql,gtk,java)](https://skillicons.dev)
- 
-<!--
+| Langages | Outils & Systèmes |
+| :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=python,bash,c,java,php,js,html,css" /> | <img src="https://skillicons.dev/icons?i=linux,git,mysql,docker" /> |
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+### 📊 Statistiques GitHub
+
+<div align="center">
+
+<a href="https://github.com/art0-v1r0s">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=art0-v1r0s&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=art0-v1r0s&layout=compact&theme=tokyonight"/>
+</a>
+
+</div>
+
+---
+
+### 🌐 Mes Réseaux
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/arthur-dupuis-758819189">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
